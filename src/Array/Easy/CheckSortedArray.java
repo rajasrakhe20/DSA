@@ -3,7 +3,7 @@ package Array.Easy;
 class Solution{
     public boolean check(int[] nums) {
 
-        int count = 0;
+        int count =  0;
         int n = nums.length;
 
         for(int i=1;i<n;i++){
